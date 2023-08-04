@@ -1,0 +1,66 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "Makanan": [
+        {
+            "foto": "https://asset.kompas.com/crops/2RnTJZK6E9ABjS_1qmItNjI1hls=/0x0:5760x3840/750x500/data/photo/2023/02/14/63eb12fb840da.jpg",
+            "nama": "Nasi Goreng",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://www.masakapahariini.com/wp-content/uploads/2022/10/resep-mie-kari-goreng.jpg",
+            "nama": "Mie Goreng",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://api.omela.com/storage/1139/conversions/1c0c9fd197d2d4c9b39046a60c2580b7-large.png",
+            "nama": "Teh Tarik",
+            "size": "10 Gram",
+            "harga": "18.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://cdn0-production-images-kly.akamaized.net/83UHpzNFaypePOj2GWPr97XaRaE=/172x0:839x667/1200x900/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4055999/original/087914700_1655451637-shutterstock_1293089503.jpg",
+            "nama": "Mactha Latte",
+            "size": "10 Gram",
+            "harga": "18.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "Cemilan": [
+        {
+            "foto": "https://geti.id/wp-content/uploads/2022/08/021875800_1595040035-roti_sosis-1024x768.webp",
+            "nama": "Risol",
+            "size": "10 Biji",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        }
+    ]
+}
